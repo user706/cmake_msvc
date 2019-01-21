@@ -9,7 +9,7 @@ Open up MSYS2 MSYS shell (C:\msys64\msys2_shell.cmd)
 pacman -S --needed mingw-w64-x86_64-gcc   \
                    mingw-w64-i686-gcc     \
                    make                   \
-				   cmake                  \
+				   cmake  \
                    mingw-w64-x86_64-ninja \
                    mingw-w64-i686-ninja
 				   
